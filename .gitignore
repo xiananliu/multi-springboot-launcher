@@ -1,0 +1,24 @@
+# Intellij project files
+**/.idea/
+**/*.iml
+**/*.ipr
+**/*.iws
+**/*.vscode
+#maven
+**/target/
+**/workspace/
+*.jar
+# eclipse
+**/.settings/
+**/.project
+**/.classpath
+*.tar.gz
+**/logback.logdir_IS_UNDEFINED/
+
+*.prefs
+*.component
+*.jsdtscope
+*.container
+*.springBeans
+*.factorypath
+
